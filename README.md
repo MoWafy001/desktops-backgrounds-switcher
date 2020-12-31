@@ -1,7 +1,7 @@
 # desktops backgrounds switcher
 This script lets you set backgrounds for certain desktops rather than just one background for all desktop.
 
-##Desktops indexs
+#Desktops indexs
 The first desktop has the index 0.
 The second has the index 1 and so on.
 
