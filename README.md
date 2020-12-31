@@ -1,5 +1,7 @@
 # desktops backgrounds switcher
 **This script lets you set backgrounds for certain desktops rather than just one background for all desktop.**
+**Windows Security thinks the .exe file is a virus. I don't know what to do about it.
+I think you will have to make Windows Secuirty exculde it for it to run.**
 
 ## Desktops indexs
 The first desktop has the index 0.
