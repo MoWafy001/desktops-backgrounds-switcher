@@ -13,4 +13,4 @@ if, for example, you want to set a background for the first desktop (index 0), y
 ## running the script
 If you run the python script, it will run in a console and you can simply stop it by pressing [ctrl+c].
 However, If you run the .exe file, The script will run but there won't be an icon in the task bar nor in task manager.
-To stop it, you need to go to detail in taskbar then find script.exe and stop it.
+To stop it, you need to go to details in the Taskmanager then find script.exe and stop it.
